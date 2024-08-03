@@ -50,7 +50,6 @@ The following tools were used in this project:
 
 - Python
 - Django
-- docker
 - jwt
 - Django REST framework
 ## :white_check_mark: Requirements ##
