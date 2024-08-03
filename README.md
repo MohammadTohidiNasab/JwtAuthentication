@@ -42,8 +42,7 @@ customize user and JwtAuthentication
 :heavy_check_mark: Profile model \
 :heavy_check_mark: Django RestFramework \
 :heavy_check_mark: Token Authentication \
-:heavy_check_mark: JWT Authentication \
-:heavy_check_mark: APi Docs \
+:heavy_check_mark: JWT Authentication 
 
 ## :rocket: Technologies ##
 
