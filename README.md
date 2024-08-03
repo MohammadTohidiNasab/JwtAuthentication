@@ -6,7 +6,7 @@
   <!-- <a href="https://onlineshop.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Custom jwt</h1>
+<h1 align="center"> JwtAuthentication </h1>
 
 
 </p>
