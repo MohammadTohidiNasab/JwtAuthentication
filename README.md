@@ -57,11 +57,11 @@ The following tools were used in this project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/MohammadTohidiNasab/CustomUser-DRF
+$ git clone https://github.com/MohammadTohidiNasab/JwtAuthentication
 
 
 # Access
-$ cd  CustomUser-DRF
+$ cd  JwtAuthentication
 
 
 # Install requirments.txt
